@@ -1,3 +1,5 @@
+Currently not actively contributing to this branch. Therefore, archiving it for future reference purposes.
+
 # Pseudocode
 Pseudocode descriptions of the algorithms from [Russell](http://www.cs.berkeley.edu/~russell/) and [Norvig's](http://www.norvig.com/) [Artificial Intelligence - A Modern Approach](http://aima.cs.berkeley.edu/).
 
